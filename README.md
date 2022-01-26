@@ -1,3 +1,3 @@
 #learing 
 
-I am learner for the git
+I am learner for the git!
